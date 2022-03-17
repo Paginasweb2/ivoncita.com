@@ -1,0 +1,31 @@
+body{
+	background-image: url(img/fondo3.jpg);
+	/*background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: blue;*/
+}
+h1{
+	color: white;
+}
+.container{
+	width: 500px;
+	height: 400px;
+}
+.texto1{
+	width: 500px;
+	height: 600px;
+	float: left;
+	background: red;
+	margin-top: 70px;
+}
+.texto2{
+	width: 500px;
+	height: 600px;
+	float: right;
+	background: pink;
+	margin-top: 70px;
+}
+
+
